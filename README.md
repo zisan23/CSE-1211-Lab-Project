@@ -16,17 +16,18 @@ Our game is a basic running game consisting many speacial features. This game is
 </table>
 To play this game you have to install SDL2 libraries in your Linux operating system. Open and play, you will have fun.<br>
 
+---
 ## Details
 
 Running Is Our Therapy (R.I.O.T.) is an SDL-based survival game written in C/C++ language. Simple, clear, and easily customizable code made this game distinctive. This game has attractive features and a good user interface. Use of keyboard and mouse interaction has made the game more enjoyable. The game is not an infinite game, so we decided to make 2 levels of the game and completing all the levels with maximum collection of point will be awarded a "Champion Crown". Based on the concept of “Jurassic Survival” like avoiding obstacles, hunting for food, dodging the enemies etc. we add fully new theme that made the game distinctive.
-
+---
 ## Language, Libraries, tools
 
 - C/C++
 - SDL2
 - VS Code, gedit text editor
 - LINUX Kernel based OS – UBUNTU 22.04 LTS
-
+---
 ## Instructions
 
 #### **Install SDL2 libraries**
@@ -48,7 +49,7 @@ $ sudo apt-get install libsdl2-mixer-2.0-0
 ```consle
 make
 ```
-
+---
 ## Video Link
 ```https```
 
