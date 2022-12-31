@@ -29,7 +29,7 @@ Running Is Our Therapy (R.I.O.T.) is an SDL-based survival game written in C/C++
 
 ## Instructions
 
-###Install SDL2 libraries
+**Install SDL2 libraries**
 
 ```consle
 $ sudo apt-get install libsdl2-dev
