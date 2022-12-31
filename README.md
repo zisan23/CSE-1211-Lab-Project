@@ -1,4 +1,4 @@
-#R.I.O.T. (Running Is Our Therapy)
+# R.I.O.T. (Running Is Our Therapy)
 CSE-1211-Lab-Project
 
 ![Project Image](images/riotlogo.png)
@@ -29,7 +29,7 @@ Running Is Our Therapy (R.I.O.T.) is an SDL-based survival game written in C/C++
 
 ## Instructions
 
-**Install SDL2 libraries**
+## **Install SDL2 libraries**
 
 ```consle
 $ sudo apt-get install libsdl2-dev
