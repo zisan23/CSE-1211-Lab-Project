@@ -52,7 +52,7 @@ make
 ---
 ## Video Link
 ---
-- https://youtu.be/PfBPaJ7uiiw
+- <b>https://youtu.be/PfBPaJ7uiiw</b>
 ---
 ## Contact
 ---
