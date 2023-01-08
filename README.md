@@ -2,7 +2,7 @@
 CSE-1211-Lab-Project
 
 <p  align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=30&pause=1500&color=166E2E&center=true&vCenter=true&width=435&lines=Welcome+to+R.+I.+O.+T." alt="Typing SVG" /></a>">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=30&pause=1500&color=166E2E&center=true&vCenter=true&width=435&lines=Welcome+to+R.+I.+O.+T." alt="Typing SVG" /></a>
 </p>
 
 ![Project Image](images/riotlogo.png)
