@@ -2,10 +2,8 @@
 CSE-1211-Lab-Project
 
 <p  align="center">
-
-<img  src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=30&pause=1500&color=166E2E&center=true&vCenter=true&width=435&lines=Welcome+to+R.+I.+O.+T." alt="Typing SVG" /></a>"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=30&pause=1500&color=166E2E&center=true&vCenter=true&width=435&lines=Welcome+to+R.+I.+O.+T." alt="Typing SVG" /></a>">
 </p>
-<p  align="left">
 
 ![Project Image](images/riotlogo.png)
 
@@ -24,18 +22,18 @@ To play this game you have to install SDL2 libraries in your Linux operating sys
 
 ---
 ## Details
-
+---
 Running Is Our Therapy (R.I.O.T.) is an SDL-based survival game written in C/C++ language. Simple, clear, and easily customizable code made this game distinctive. This game has attractive features and a good user interface. Use of keyboard and mouse interaction has made the game more enjoyable. The game is not an infinite game, so we decided to make 2 levels of the game and completing all the levels with maximum collection of point will be awarded a "Champion Crown". Based on the concept of “Jurassic Survival” like avoiding obstacles, hunting for food, dodging the enemies etc. we add fully new theme that made the game distinctive.
 ---
 ## Language, Libraries, tools
-
+---
 - C/C++
 - SDL2
 - VS Code, gedit text editor
 - LINUX Kernel based OS – UBUNTU 22.04 LTS
 ---
 ## Instructions
-
+---
 #### **Install SDL2 libraries**
 
 ```consle
@@ -57,11 +55,11 @@ make
 ```
 ---
 ## Video Link
-```console
-https://youtu.be/PfBPaJ7uiiw
-```
+---
+- https://youtu.be/PfBPaJ7uiiw
 ---
 ## Contact
+---
 ```console
 azmainfaiak45[at]gmail.com
 ```
@@ -71,3 +69,4 @@ wakias9245[at]gmail.com
 ```console
 zisanmahmud12002060[at]gamil.com
 ```
+---
