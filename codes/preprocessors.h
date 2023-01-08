@@ -1,3 +1,0 @@
-#define WINDOW_WIDTH 1280
-#define WINDOW_HEIGHT 960
-#define SCROLL_SPEED 300
