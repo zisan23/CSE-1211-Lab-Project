@@ -1,6 +1,12 @@
 # R.I.O.T. (Running Is Our Therapy)
 CSE-1211-Lab-Project
 
+<p  align="center">
+
+<img  src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=30&pause=1500&color=166E2E&center=true&vCenter=true&width=435&lines=Welcome+to+R.+I.+O.+T." alt="Typing SVG" /></a>"></a>
+</p>
+<p  align="left">
+
 ![Project Image](images/riotlogo.png)
 
 ## Intro
